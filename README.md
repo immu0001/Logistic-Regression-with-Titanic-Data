@@ -1,4 +1,4 @@
-## Logistic-Regression-with-Titanic-Data
+## Logistic-Regression-From-Disaster
 
 # Logistic Regression with Titanic Data
 
