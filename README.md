@@ -4,4 +4,6 @@
 
 This is done as part of the tutorial from Medium :
 
+# credits
+
 https://medium.com/@anishsingh20/logistic-regression-in-python-423c8d32838b  
