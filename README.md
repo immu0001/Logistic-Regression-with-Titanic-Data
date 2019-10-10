@@ -1,5 +1,6 @@
-# Logistic-Regression-with-Titanic-Data
-Logistic Regression with Titanic Data
+## Logistic-Regression-with-Titanic-Data
+
+# Logistic Regression with Titanic Data
 
 This is done as part of the tutorial from Medium :
 
